@@ -1,0 +1,22 @@
+[
+    {
+        "usuario": "caramirez@aeropost.com",
+        "password": "1212a1212"
+    },
+    {
+        "usuario": "eardon@aeropost.com",
+        "password": "eardon2024"
+    },
+    {
+        "usuario": "mpadilla@aeropost.com",
+        "password": "mpadilla2024"
+    },
+    {
+        "usuario": "cmadrid@aeropost.com",
+        "password": "cmadrid2024"
+    },
+    {
+        "usuario": "admin",
+        "password": "admin"
+    }
+]
