@@ -1,27 +1,27 @@
 [
     {
         "usuario": "caramirez@aeropost.com",
-        "password": "1212a1212"
-        "pais": "ElSalvador",
+        "password": "1212a1212",
+        "pais": "ElSalvador"
     },
     {
         "usuario": "eardon@aeropost.com",
-        "password": "eardon2024"
-        "pais": "ElSalvador",
+        "password": "eardon2024",
+        "pais": "ElSalvador"
     },
     {
         "usuario": "mpadilla@aeropost.com",
-        "password": "mpadilla2024"
-        "pais": "ElSalvador",
+        "password": "mpadilla2024",
+        "pais": "ElSalvador"
     },
     {
         "usuario": "cmadrid@aeropost.com",
-        "password": "cmadrid2024"
-        "pais": "ElSalvador",
+        "password": "cmadrid2024",
+        "pais": "ElSalvador"
     },
     {
         "usuario": "admin",
-        "password": "admin"
-        "pais": "ElSalvador",
+        "password": "admin",
+        "pais": "ElSalvador"
     }
 ]
